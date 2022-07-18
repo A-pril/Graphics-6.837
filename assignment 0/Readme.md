@@ -1,9 +1,9 @@
 # Iterated System Function
 
-Theory
+## Theory
 ![image](https://user-images.githubusercontent.com/76250553/179265147-aaad35dc-4790-4a10-841a-a1bb1d049aa1.png)
 
-Result
+## Result
 ./ifs -input sierpinski_triangle.txt -points 10000 -iters 0 -size 200 -output sierpinski_triangle_0.tga
 ![image](https://user-images.githubusercontent.com/76250553/179265404-4c367a13-bc0e-4844-b53e-db1e63ba44fd.png)
 
