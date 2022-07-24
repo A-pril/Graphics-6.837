@@ -4,5 +4,11 @@ Host:    Winodws10
 Virtual: Oracle VM Virtual-Box 6.1.4 
 OS:      Ubuntu 18.04.2
 
-### Iterated Function System Theory     2022.7.16
-### Ray Casting     2022.7.18
+### Iterated Function System Theory
+2022.7.16
+
+### Ray Casting
+2022.7.18
+
+## Transformations & Additional Primitives
+2022.7.24
