@@ -10,5 +10,5 @@ OS:      Ubuntu 18.04.2
 ### Ray Casting
 2022.7.18
 
-## Transformations & Additional Primitives
+### Transformations & Additional Primitives
 2022.7.24
