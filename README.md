@@ -12,3 +12,6 @@ OS:      Ubuntu 18.04.2
 
 ### Transformations & Additional Primitives
 2022.7.24
+
+### OpenGL & Phong Shading
+2022.8.4
